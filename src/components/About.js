@@ -1,5 +1,5 @@
 import React from 'react';
-
+import picture from '../assets/images/IMG_1105.jpeg'
 function About() {
   return (
     <main className="page-section">
@@ -11,8 +11,9 @@ function About() {
     <section className="about">
       <h2>About Me</h2>
       <img
-        src={process.env.PUBLICURL + "/assets/images/IMG_1105.jpeg"}
+        src={picture}
         alt="of Pompano Beach"
+        width="300"
       />
       <p>
         My name is Braden Dawson, and I am a full-stack web-developer. After
