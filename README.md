@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# **Braden Dawson // Web Developer**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## **Description**
+*Braden Dawson* // *Web Developer* is a React-based portfolio website that showcases Braden Dawson’s web development projects, skills, and experience. It includes multiple sections, such as *About Me*, *Portfolio* , *Contact*, and *Resume*, that allow potential employers and clients to learn more about him and his work. 
 
-## Available Scripts
+## **Table of Contents**
+* [Installation](#installation)
 
-In the project directory, you can run:
+* [Usage](#usage)
 
-### `npm start`
+* [License](#license)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* [Contributors](#contributors)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* [Github](#github)
 
-### `npm test`
+* [Github Pages Deployment](#github-pages-deployment)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* [Email](#email)  
 
-### `npm run build`
+### **Installation**
+To install and run this project on your local machine, follow these steps:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Clone the repository to your local machine using Git or download the ZIP file directly.
+2. Navigate to the project's root directory using the command line.
+3. Run npm install to install the required dependencies.
+4. Run npm start to start the development server.
+5. Open http://localhost:3000 in your web browser to view the app.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### **Usage**
+Once the app is up and running, you can use the navigation links to access the different sections of the portfolio, including About Me, Portfolio, Contact, and Resume.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+In the About Me section, you will see a recent photo or avatar of the developer, along with a short bio about them.
 
-### `npm run eject`
+In the Portfolio section, you will see a selection of projects that the developer has worked on, including a title, an image of the deployed application, a link to the deployed application, and a link to the corresponding GitHub repository.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+In the Contact section, you will find a contact form where you can enter your name, email address, and a message to get in touch with the developer.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+In the Resume section, you will find a downloadable resume and a list of the developer's proficiencies.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### **License**
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### **Contributors**
+Braden Dawson
 
-## Learn More
+### **Github**
+[https://github.com/fbdthree/module-20-challenge-react](https://github.com/fbdthree/module-20-challenge-react)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### **Github Pages Deployment**
+[https://fbdthree.github.io/module-20-challenge-react/](https://fbdthree.github.io/module-20-challenge-react/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### **Email**
+[fbd3@me.com](fbd3@me.com)
